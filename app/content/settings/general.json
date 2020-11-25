@@ -1,7 +1,7 @@
 {
   "title": "Home",
-  "titleTemplate": "| Bluise",
-  "welcomeText": "# Yo, I'm Bluise - A Nuxt.js & Netlify CMS boilerplate.\n\nAuthentic cred hoodasdfafdie hashtag selfies. Raclette banjo cardigan cred. Kitsch XOXO lomo polaroid. Knausgaard put a bird on it four dollar toast leggings typewriter asymmetrical.",
+  "titleTemplate": "| CiiBER.co",
+  "welcomeText": "# Yo, CiiBER.co is all yo need for yo business.\n\nOK, not exactly all you need, but it's definitely what you need. Why? Because CiiBER.co is the leading Business solutions and Workflow management company. What can we do for you? Shoot us an email and let's get right to it. And while your at it, why not include some of the most pressing IT and tech issues your company is facing.",
   "logo": "/images/uploads/logo.svg",
   "icon": "/images/uploads/logo.png",
   "loadingColor": "#0b3765",
