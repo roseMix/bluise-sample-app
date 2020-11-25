@@ -1,8 +1,8 @@
 {
-  "name": "Bluise",
-  "shortName": "Bluise",
-  "description": "A Nuxt.js & Netlify CMS boilerplate.",
-  "themeColor": "#0b3765",
+  "name": "CiiBER.co",
+  "shortName": "CiiBER.co",
+  "description": " A leading IT and Workflow management solutions provider",
+  "themeColor": "#F89633",
   "backgroundColor": "#ffffff",
   "lang": "en"
 }
